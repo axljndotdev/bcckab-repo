@@ -56,7 +56,7 @@ const Footer = () => {
               Bethesda Community Church
             </Typography>
             <Typography variant="body2" sx={{ color: "#999" }}>
-              © {new Date().getFullYear()} BCC. All rights reserved.
+              © {new Date().getFullYear()}(Alpha-v) BCC. All rights reserved.
             </Typography>
           </Grid>
           <Grid item xs={12} sm={4}>
@@ -119,8 +119,12 @@ const Footer = () => {
             <Typography variant="body2" sx={{ color: "#999" }}>
               Brgy. 1, Kabankalan City, Negros Occidetal
             </Typography>
-            <Typography variant="body2" sx={{ color: "#999" }}>Email: blgministries214@gmail.com</Typography>
-            <Typography variant="body2" sx={{ color: "#999" }}>Phone: +63 94884 87853</Typography>
+            <Typography variant="body2" sx={{ color: "#999" }}>
+              Email: blgministries214@gmail.com
+            </Typography>
+            <Typography variant="body2" sx={{ color: "#999" }}>
+              Phone: +63 94884 87853
+            </Typography>
             <Box sx={{ mt: 2 }}>
               <IconButton
                 href="https://www.facebook.com/bcckab"
