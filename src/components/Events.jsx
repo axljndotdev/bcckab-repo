@@ -18,7 +18,8 @@ const events2024 = [
     id: "BCCVBS2024",
     title: "BCC VBS 2024 - Theme: Keepers Of The Kingdom",
     date: "June 19 - 22",
-    description: "We are engaged in an epic battle for the hearts and minds of our youth. Thankfully, God has given his children armor to wear in this battle between good and evil.",
+    description:
+      "We are engaged in an epic battle for the hearts and minds of our youth. Thankfully, God has given his children armor to wear in this battle between good and evil.",
     details:
       "Detailed information about Event 1. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla accumsan, metus ultrices eleifend gravida.",
     image: eventImage1,
@@ -33,7 +34,12 @@ const Events = () => {
       <Typography
         variant="h3"
         gutterBottom
-        style={{ color: "white", margin: "1rem 0 2rem 0", fontWeight: "bold" }}
+        style={{
+          color: "white",
+          margin: "1rem 0 2rem 0",
+          fontWeight: "bold",
+          paddingTop: "74px",
+        }}
       >
         Upcoming Events
       </Typography>

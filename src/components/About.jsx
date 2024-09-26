@@ -13,24 +13,21 @@ import {
 } from "@mui/material";
 
 const About = () => {
-  
   const [currentTab, setCurrentTab] = useState(0);
 
   const handleTabChange = (event, newValue) => {
     setCurrentTab(newValue);
   };
-  
 
-  
-  
   return (
     <Box
       sx={{
         backgroundImage: 'url("../src/assets/img/community.png")', // Replace with the actual path to your background image
         backgroundSize: "cover",
-        backgroundPosition: "inherit",
+        backgroundPosition: "light",
         padding: "1rem",
         color: "white", // Ensure text is readable over the background image
+        paddingTop: "64px",
       }}
     >
       <Container

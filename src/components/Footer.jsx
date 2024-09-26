@@ -117,7 +117,7 @@ const Footer = () => {
               Contact Us
             </Typography>
             <Typography variant="body2" sx={{ color: "#999" }}>
-              Brgy. 1, Kabankalan City, Negros Occidetal
+              Brgy. 1, Kabankalan City, Negros Occidental
             </Typography>
             <Typography variant="body2" sx={{ color: "#999" }}>
               Email: blgministries214@gmail.com
@@ -130,7 +130,7 @@ const Footer = () => {
                 href="https://www.facebook.com/bcckab"
                 color="inherit"
                 target="_blank"
-                rel="noopener"
+                rel="noopener noreferrer"
                 sx={{ "&:hover": { color: "#4267B2" } }}
               >
                 <FacebookIcon />
@@ -139,7 +139,7 @@ const Footer = () => {
                 href="https://www.twitter.com"
                 color="inherit"
                 target="_blank"
-                rel="noopener"
+                rel="noopener noreferrer"
                 sx={{ "&:hover": { color: "#1DA1F2" } }}
               >
                 <TwitterIcon />
@@ -148,7 +148,7 @@ const Footer = () => {
                 href="https://www.instagram.com"
                 color="inherit"
                 target="_blank"
-                rel="noopener"
+                rel="noopener noreferrer"
                 sx={{ "&:hover": { color: "#E1306C" } }}
               >
                 <InstagramIcon />
@@ -157,7 +157,7 @@ const Footer = () => {
                 href="https://www.youtube.com"
                 color="inherit"
                 target="_blank"
-                rel="noopener"
+                rel="noopener noreferrer"
                 sx={{ "&:hover": { color: "#FF0000" } }}
               >
                 <YouTubeIcon />

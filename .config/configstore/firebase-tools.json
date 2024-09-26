@@ -1,0 +1,45 @@
+{
+	"motd": {
+		"cloudBuildErrorAfter": 1594252800000,
+		"cloudBuildWarnAfter": 1590019200000,
+		"defaultNode10After": 1594252800000,
+		"minVersion": "3.0.5",
+		"node8DeploysDisabledAfter": 1613390400000,
+		"node8RuntimeDisabledAfter": 1615809600000,
+		"node8WarnAfter": 1600128000000,
+		"fetched": 1727262445958
+	},
+	"usage": true,
+	"analytics-uuid": "f1327941-51d8-447a-896e-466c48a788ed",
+	"user": {
+		"iss": "accounts.google.com",
+		"azp": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"aud": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"sub": "107224095680135706011",
+		"email": "axceljohnpatriarca@gmail.com",
+		"email_verified": true,
+		"at_hash": "4Tg6Ug5RU_dr8vf6vZXtAg",
+		"iat": 1723177293,
+		"exp": 1723180893
+	},
+	"tokens": {
+		"expires_at": 1727279858752,
+		"refresh_token": "1//0g7ECb0DoFG_bCgYIARAAGBASNwF-L9Irzq71PjIH7IPFOkwIhV5w3Ta-kWjA_AeQAOO-gf1Ctf9EXkiOl2tmsPFlvEgXBwho3Hk",
+		"scopes": [],
+		"access_token": "ya29.a0AcM612wK_dcQBWpSJjIW5G7SoiqVWwdDpVmF9c_FL_Qp-JoIas05Rk89m7pjsnxFnGOsVR5HS0kU4Uxb1EJCD8Xpwegl0nsAwA6u6FIkL2T2qNviULE7aEbEVEJiddv21rVChQuo0JcIwHvak9aEbbeC0oNlq_2Ab8w8in7Hc8QTahntaCgYKAaYSARISFQHGX2Mi6axGSN9Q4kiDw19B9UbBcQ0183",
+		"expires_in": 3599,
+		"scope": "https://www.googleapis.com/auth/cloud-platform openid https://www.googleapis.com/auth/cloudplatformprojects.readonly https://www.googleapis.com/auth/userinfo.email https://www.googleapis.com/auth/firebase",
+		"token_type": "Bearer",
+		"id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjVhYWZmNDdjMjFkMDZlMjY2Y2NlMzk1YjIxNDVjN2M2ZDQ3MzBlYTUiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJhY2NvdW50cy5nb29nbGUuY29tIiwiYXpwIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwiYXVkIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwic3ViIjoiMTA3MjI0MDk1NjgwMTM1NzA2MDExIiwiZW1haWwiOiJheGNlbGpvaG5wYXRyaWFyY2FAZ21haWwuY29tIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsImF0X2hhc2giOiJ3YWpkYmM4ODNSSjRoZC0yZHlnSWlnIiwiaWF0IjoxNzI3Mjc2MjU5LCJleHAiOjE3MjcyNzk4NTl9.hhTcSz_ZYAA5unKsyc5byNbvzFwQSKvAo958DkgYruyYQGlwo0Rs7fjxGjAudfzedH4u1nY85EEVSri4HAiwX84dQ8eE8UhD5Ww_t3oEe5e0xn1gqVp37t9BJ2fUcrZO0kXvpbJFBfediZ5-TKlmf0jczTUqjFPh7epFK81d5B3blRSnBybVxoP6nJlmqtsZpQEhFbbfM6ttP95S63ADMq4h--iugkwXo0TgdeDAwRIVTQo9t0rOZKABmWEwKOrs0VAwob1C0pZdyjcHV9DRsUJyA4ZSJE4yL0R84QeCVALgMstBszh8bwxGr6EA_FdoTQcDoDgZpi2LBNkEImv6HA"
+	},
+	"loginScopes": [
+		"email",
+		"openid",
+		"https://www.googleapis.com/auth/cloudplatformprojects.readonly",
+		"https://www.googleapis.com/auth/firebase",
+		"https://www.googleapis.com/auth/cloud-platform"
+	],
+	"activeProjects": {
+		"/home/runner/BCCKab-Website": "bcc-kab"
+	}
+}

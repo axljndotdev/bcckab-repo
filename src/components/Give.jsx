@@ -14,7 +14,7 @@ const Give = () => {
   };
 
   return (
-    <Container sx={{ mt: 4, mb: 4 }}>
+    <Container sx={{ mt: 4, mb: 4, paddingTop: "64px" }}>
       <Grid container spacing={2}>
         <Grid item xs={12} md={6}>
           <Box sx={{ mb: 4 }}>

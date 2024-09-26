@@ -10,7 +10,7 @@ import {
 
 const Contacts = () => {
   return (
-    <Container sx={{ mt: 4, mb: 4 }}>
+    <Container sx={{ mt: 4, mb: 4, paddingTop: "64px" }}>
       <Box sx={{ mb: 4 }}>
         <Typography
           variant="h3"

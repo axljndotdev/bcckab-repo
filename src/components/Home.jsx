@@ -255,27 +255,15 @@ const HomePage = () => {
             sx={{ width: "100%", height: 400, marginTop: 2, borderRadius: 8 }}
           >
             <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3929.207157792759!2d122.81096007503119!3d9.999740090105643!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x33ac116663c5eebf%3A0x6777d47df883ef89!2sBethesda%20Community%20Church%20%2F%20Bethesda%20Life%20Group%20Ministries!5e0!3m2!1sen!2sph!4v1716956207354!5m2!1sen!2sph"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3929.207157792759!2d122.81096007503119!3d9.999740090105643!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x33aa326ffad21a1f%3A0x5648650a855a973e!2sBethesda%20Christian%20Church!5e0!3m2!1sen!2sph!4v1695115019283!5m2!1sen!2sph"
               width="100%"
-              height="450"
-              style={{ border: 0 }}
+              height="100%"
               allowFullScreen=""
               loading="lazy"
+              style={{ border: 0 }}
               referrerPolicy="no-referrer-when-downgrade"
-            ></iframe>
+            />
           </Box>
-          <Typography variant="body1" gutterBottom sx={{ mt: 10 }}>
-            Visit us at our church location. We would love to see you!
-          </Typography>
-          <Button
-            variant="outlined"
-            color="secondary"
-            component={Link}
-            to="/contact"
-            sx={{ mt: 2 }}
-          >
-            Contact Us
-          </Button>
         </Container>
       </Box>
     </Box>
